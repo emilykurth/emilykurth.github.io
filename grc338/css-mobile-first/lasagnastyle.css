@@ -90,6 +90,9 @@ footer {
     font-style:normal;
     font-size: 0.8em;
 }
+body {
+    background-color: rgb(250, 250, 250)
+}
 /*By the way, when we use the slash-asterisk combo, 
 it’s a comment on the CSS and it’s meant for human beings. 
 The machine knows it is not supposed to process anything 
